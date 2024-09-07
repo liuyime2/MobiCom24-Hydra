@@ -9,11 +9,11 @@ Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Dep
 
 ## Repository structure
 This repository includes the following contents:
-'''
-|- MobiCom24-Hydra
-	|- dataset       - The dataset of the empirical 
-	  |- RGB Image       - The RGB Camera Image
-'''
+
+
+	|- MobiCom24-Hydra
+		|- dataset       - The dataset of the empirical 
+  			|- RGB Image       - The RGB Camera Image
 
 
 
