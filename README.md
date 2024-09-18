@@ -1,4 +1,4 @@
-### Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
+#### Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
 
 This repository contains the dataset and model architecture of the MobiCom'24 paper "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera".
 The dataset and architecture are still under development. More content are expected by the end of September.
@@ -15,7 +15,14 @@ This repository includes the following contents:
 	|- MobiCom24-Hydra
 		|- dataset       - The dataset of the empirical 
   			|- RGB Image       - The RGB Camera Image
-
+		|- model       - The model strucutre of Hydra
+  			|- Hydra-Tensorflow       - Hydra model under Tensorflow
+  			|- Hydra-PyTorch          - Hydra model under PyTorch
+  
+## Model Requirements
+The models are built using TensorFlow and PyTorch with the following versions:
+	tensorflow==2.13.0
+	torch==2.4.1
 
 
 ## Reference
