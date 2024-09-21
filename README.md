@@ -36,7 +36,9 @@ The data naming convention is divided into different segments separated by under
 5. **Cross-Section Distance** (for SAR images): A fifth segment indicates the cross-section distance from the sensor.
 
 For example
-'
+
+
+	|- MobiCom24-Hydra
 	|- dataset       - The dataset of the empirical 
  		|- RGB Image
 			|- 0_0119_200_1
@@ -45,7 +47,7 @@ For example
  		|- SAR Image
 			|- 0_0119_200_1
 				|- 0_0119_200_1_200.jpg
-'
+
 
 The two subfolders named `0_0119_200_1` represent data captured at the same sampling time but from two different modalities.
 The file:
