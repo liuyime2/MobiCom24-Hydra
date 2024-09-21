@@ -50,13 +50,11 @@ For example
 
 The two subfolders named `0_0119_200_1` represent data captured at the same sampling time but from two different modalities.
 The file:
-	|- MobiCom24-Hydra
-	dataset/RGB Image/0_0119_200_1/0_0119_200_1.jpg 
+	|- MobiCom24-Hydra dataset/RGB Image/0_0119_200_1/0_0119_200_1.jpg 
 is the RGB camera image, which represents a dry leaf sample. The plant's closest point is 200mm away, and this is the 1st sample in the group taken on 01/19.
  
 The file 
-	|- MobiCom24-Hydra
-	dataset/SAR Image/0_0119_200_1/0_0119_200_1_200.jpg 
+	|- MobiCom24-Hydra dataset/SAR Image/0_0119_200_1/0_0119_200_1_200.jpg 
 is the SAR image representing a dry leaf sample with the plant's closest point being 200mm away. This cross-section was captured at a 200mm distance from the sensor and belongs to the 1st sample in the group taken on 01/19.
 
 
