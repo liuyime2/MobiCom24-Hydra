@@ -1,12 +1,12 @@
 # Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
 
 This repository contains the dataset and model architecture of the MobiCom'24 paper "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera".
-This work is published on The 30th Annual International Conference on Mobile Computing and Networking. [MobiCom 24]([[https://doi.org/10.1145/3636534.3690662](https://www.sigmobile.org/mobicom/2024/)]
+This work is published at The 30th Annual International Conference on Mobile Computing and Networking. [MobiCom 24](https://www.sigmobile.org/mobicom/2024/)
 The dataset and architecture are still under development. More content is expected by the end of September.
 
 ## Hydra Overview
 ![overview image](figure/overview.png "Title")
-Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Depth Feature Detection, and classifier. We fuse the multi-modality and extract wetness features in the Single-Depth Feature Extraction phase. The Multi-Depth Feature Detection stage leverages these features at a 3D level, culminating in utilizing a leaf wetness classification algorithm to derive the final wetness assessment.[Paper Link]([[https://doi.org/10.1145/3636534.3690662](https://www.sigmobile.org/mobicom/2024/)]) will be available soon.
+Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Depth Feature Detection, and classifier. We fuse the multi-modality and extract wetness features in the Single-Depth Feature Extraction phase. The Multi-Depth Feature Detection stage leverages these features at a 3D level, culminating in utilizing a leaf wetness classification algorithm to derive the final wetness assessment.[Paper Link](https://www.sigmobile.org/mobicom/2024/) will be available soon.
 <!--Paper DOI is https://doi.org/10.1145/3636534.3690662. It will be available when the entire conference is published. -->
 
 
