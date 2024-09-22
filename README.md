@@ -1,4 +1,4 @@
-## Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
+# Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
 
 This repository contains the dataset and model architecture of the MobiCom'24 paper "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera".
 The dataset and architecture are still under development. More content are expected by the end of September.
@@ -49,10 +49,10 @@ For example
 
 
 The two subfolders named `0_0119_200_1` represent data captured at the same sampling time but from two different modalities.
-The file 'dataset/RGB Image/0_0119_200_1/0_0119_200_1.jpg'
+The file `dataset/RGB Image/0_0119_200_1/0_0119_200_1.jpg`
 is the RGB camera image, which represents a dry leaf sample. The plant's closest point is 200mm away, and this is the 1st sample in the group taken on 01/19.
  
-The file 'dataset/SAR Image/0_0119_200_1/0_0119_200_1_200.jpg ' is the SAR image representing a dry leaf sample with the plant's closest point being 200mm away. This cross-section was captured at a 200mm distance from the sensor and belongs to the 1st sample in the group taken on 01/19.
+The file `dataset/SAR Image/0_0119_200_1/0_0119_200_1_200.jpg` is the SAR image representing a dry leaf sample with the plant's closest point being 200mm away. This cross-section was captured at a 200mm distance from the sensor and belongs to the 1st sample in the group taken on 01/19.
 
 
 
