@@ -14,7 +14,7 @@ Data is collected using the off-the-shelf Texas Instruments (TI) IWR1642 radar, 
 The example data collection scenario is
 ![Data Collection Scenario](figure/overview_system.png "Data Collection")
 
-#### Repository structure
+## Repository structure
 This repository includes the following contents:
 
 
