@@ -5,7 +5,7 @@ The dataset and architecture are still under development. More content is expect
 
 ## Hydra Overview
 ![overview image](figure/overview.png "Title")
-Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Depth Feature Detection, and classifier. We fuse the multi-modality and extract wetness features in the Single-Depth Feature Extraction phase. The Multi-Depth Feature Detection stage leverages these features at a 3D level, culminating in utilizing a leaf wetness classification algorithm to derive the final wetness assessment.([Paper Link](https://doi.org/10.1145/3636534.3690662) will be available soon.
+Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Depth Feature Detection, and classifier. We fuse the multi-modality and extract wetness features in the Single-Depth Feature Extraction phase. The Multi-Depth Feature Detection stage leverages these features at a 3D level, culminating in utilizing a leaf wetness classification algorithm to derive the final wetness assessment.[Paper Link](https://doi.org/10.1145/3636534.3690662) will be available soon.
 
 
 ## Data Collection Scenario
