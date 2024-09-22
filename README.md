@@ -13,6 +13,8 @@ Hydra contains three main procedures: Single-Depth Feature Extraction, Multi-Dep
 Data is collected using the off-the-shelf Texas Instruments (TI) IWR1642 radar, which operates within the 77 to 81 GHz frequency range. Initial signal collection and processing are carried out using the DCA1000EVM ~\cite{mmwave-receiver}, in combination with a two-axis mechanical scanner for SAR imaging. Hydra employs an Azure Kinect camera positioned at the center of the scanning area for RGB camera imaging.
 The example data collection scenario is
 ![Data Collection Scenario](figure/overview_system.png "Data Collection")
+<img src="figure/overview_system.png" alt="Data Collection Scenario" title="Data Collection" width="80%"/>
+
 
 ## Repository structure
 This repository includes the following contents:
