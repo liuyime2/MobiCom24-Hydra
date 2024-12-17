@@ -1,6 +1,6 @@
 # Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera
 
-This repository contains the dataset and model architecture of the MobiCom'24 paper "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera". [Paper Link](https://lyimeng23.github.io/assets/files/hydra.pdf).
+This repository contains the dataset and model architecture of the MobiCom'24 paper "Hydra: Accurate Multi-Modal Leaf Wetness Sensing with mm-Wave and Camera". [Paper Link](https://dl.acm.org/doi/10.1145/3636534.3690662).
 This work is published at The 30th Annual International Conference on Mobile Computing and Networking. [MobiCom 24](https://www.sigmobile.org/mobicom/2024/).
 
 ## Hydra Overview
